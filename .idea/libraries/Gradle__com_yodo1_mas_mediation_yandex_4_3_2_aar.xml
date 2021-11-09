@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yodo1.mas.mediation:yandex:4.3.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/71f2eee743bf757cef85979420f4b11b/jetified-yandex-4.3.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/71f2eee743bf757cef85979420f4b11b/jetified-yandex-4.3.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/71f2eee743bf757cef85979420f4b11b/jetified-yandex-4.3.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yodo1.mas.mediation/yandex/4.3.2/8abd426a3cec53efbea00a1cca32c9256fd623d9/yandex-4.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yodo1.mas.mediation:facebook:4.3.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/94898033b839f8313d87cc57df391ab3/jetified-facebook-4.3.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/94898033b839f8313d87cc57df391ab3/jetified-facebook-4.3.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/94898033b839f8313d87cc57df391ab3/jetified-facebook-4.3.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yodo1.mas.mediation/facebook/4.3.2/57e8efd14bf03ffc59611f63716ff524349173d6/facebook-4.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
